@@ -1,0 +1,8 @@
+{
+    "type": "setting",
+    "settings": {
+      "recommendations": [
+        "ritwickdey.LiveServer"
+      ]
+    }
+  }
